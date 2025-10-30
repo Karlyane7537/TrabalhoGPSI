@@ -34,8 +34,8 @@ namespace PSIM9
             {
                 Console.WriteLine(numero);
             }
-            Console.WriteLine($"Maior número: {maximo}, índice: {indice + 1}");
-            Console.WriteLine("Oi oi");
+            Console.WriteLine($"\nMaior número: {maximo}, índice: {indice + 1}");
+            Console.WriteLine("Sao paulo é melhor que Cearaa");
             Console.ReadKey();
            
         }
