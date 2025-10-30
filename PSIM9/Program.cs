@@ -11,6 +11,7 @@ namespace PSIM9
         static void Main(string[] args)
         {
             int[] numeros = new int[10];
+
             for (int v = 0; v < numeros.Length; v++)
             {
                 Console.Write($"Digite o {v + 1}º número > ");
