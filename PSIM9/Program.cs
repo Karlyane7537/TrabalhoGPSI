@@ -35,9 +35,11 @@ namespace PSIM9
                 Console.WriteLine(numero);
             }
             Console.WriteLine($"\nMaior número: {maximo}, índice: {indice + 1}");
+            Console.WriteLine("oi");
             Console.ReadKey();
+           
         }
-
+       
     }
 }
 
